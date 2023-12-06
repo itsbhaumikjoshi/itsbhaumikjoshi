@@ -2,7 +2,7 @@
 
 <br/>
 
-<h1 align="center" style="text-shadow: 0 0 5px; color: #0870c2;">Hi 👋, I'm Bhaumik Joshi</h1>
+<h1 align="center">Hi 👋, I'm Bhaumik Joshi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <br />
 <br />  
@@ -85,27 +85,3 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsbhaumikjoshi&show_icons=true&count_private=true&hide_border=true" align="center" class="github-stats" /></div>  
 <br />
-
-
-<style>
-    .twitter-follow {
-        height: 35px;
-    }
-    .connect-with-me {
-        margin-bottom: 5px;
-        height: 35px;
-        width: 140px;
-    }
-    .github-stats {
-        width: 450px;
-    }
-    @media only screen and (max-width: 600px) {
-        .connect-with-me {
-            height: 32px;
-            width: 120px;
-        }
-        .github-stats {
-            width: 100%;
-        }
-    }
-</style>
