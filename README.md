@@ -82,6 +82,3 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhaumikjoshi&hide_border=true&layout=compact" align="center" class="github-stats" /></div> 
 <br />
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsbhaumikjoshi&show_icons=true&count_private=true&hide_border=true" align="center" class="github-stats" /></div>  
-<br />
